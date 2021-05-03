@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Scrolling Text RV CSE</string>
+    <string name="article_title">RV College of Engineering</string>
+    <string name="article_subtitle">About Department of CSE</string>
+    <string name="article_text">Department of Computer Science and Engineering has a total of 44 teaching faculty members with various specializations in computer science, out of which 23 are Ph.D holders, 19 are pursuing Ph.D and only 2 faculties are yet to register for Ph.D. The Department has state-of-the-art infrastructure and computing equipment supported by high speed Ethernet and wireless networks. Various student organisations like CSI Chapter, IEEE Student Chapter are active throughout the year.
+        \n\n
+         The intake for undergraduate program is 180 students and 18 each for M.Tech(CSE) and M.Tech(CNE). The faculty student ratio is 1:18.The Department has a comprehensive curriculum on topics related to all aspects of Computer Hardware and Software with an emphasis on practical learning. The course structure is in line with latest advances in technology which equip the students with the latest developments in Computer Science and Engineering.https://rvce.edu.in//cs-about_the_department
+        \n\n
+        <b>Vision</b>
+        \n\n
+        To achieve leadership in the field of Computer Science and Engineering by strengthening fundamentals and facilitating interdisciplinary sustainable research to meet the ever growing needs of the society.
+        \n\n
+        <b>UG Program:</b>
+        \n\n
+        B.E in Computer Science and Engineering
+        \n\n
+        Approved intake : 180
+        \n\n
+        <b>PG Program:</b>
+        \n\n
+         M.Tech in Computer Science and Engineering
+        \n\n
+        Approved intake : 18
+        \n\n
+        M.Tech in Computer Network and Engineering
+        \n\n
+        Approved intake : 18
+        \n\n
+        <b><i>Research Programs</i></b>: M.Sc. (Engineering) by research
+        Ph.D.
+        \n\n
+        Click here for faculty list https://www.rvce.edu.in//cse-faculty
+    </string>
+</resources>
